@@ -155,6 +155,10 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   border-color: #137fb1;
 }
 
+.img-laravel {
+  background: url("image/programming/laravel-black.png");
+}
+
 .btn.btn-outline-primary:hover {
   border-color: #137fb1;
   background: #137fb1;
@@ -165,6 +169,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   background: transparent;
   color: #000000;
   border-color: #000000;
+}
+
+.btn.btn-outline-primary2 {
+  background: transparent;
+  color: #137fb1;
+  border-color: #137fb1;
 }
 
 .btn.btn-fancy {
@@ -1636,7 +1646,7 @@ figure.dotted-bg:before {
 }
 
 #about-section .container {
-  background: #c3e3ff;
+  background: #e4f3ff;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 50px;
