@@ -149,6 +149,18 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   color: #ffffff;
 }
 
+.btn.btn-outline-primary {
+  background: transparent;
+  color: #137fb1;
+  border-color: #137fb1;
+}
+
+.btn.btn-outline-primary:hover {
+  border-color: #137fb1;
+  background: #137fb1;
+  color: #ffffff;
+}
+
 .btn.btn-outline-black2 {
   background: transparent;
   color: #000000;
@@ -159,7 +171,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   background: linear-gradient(to right, rgb(9, 50, 75) 50%, white 50%);
   background-size: 200% 100%;
   background-position: right bottom;
-  transition: all .5s ease-out;
+  transition: all .3s ease-out;
 }
 
 .btn.btn-fancy:hover {
@@ -168,7 +180,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 }
 
 .btn.text {
-  transition: all .6s ease-out;
+  transition: all .4s ease-out;
 }
 
 
