@@ -1,9 +1,8 @@
-Template Name: Minimal
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+Ilham Prabu Zaky S
 
-Twitter: https://twitter.com/Untree_co
+Twitter: https://twitter.com/ilhamprabuzakys
+Instagram: https://instagram.com/ilhamprabuzakyyys
+YouTube: https://youtube.com/@/ilahazs
 Facebook: https://web.facebook.com/Untree.co/
 
 
